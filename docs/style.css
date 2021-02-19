@@ -1,0 +1,7 @@
+h1{
+    size
+}
+
+.arg_type, .arg_name, .method_arg_list{
+    display: inline-block;
+}
